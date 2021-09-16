@@ -80,7 +80,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/linked-planet/doxis-api")
+            url = uri("https://maven.pkg.github.com/linked-planet/ocpp16-soap")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
