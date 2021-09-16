@@ -23,7 +23,6 @@ buildNumber.properties
 # Gradle
 # ----------------------------------
 .gradle/
-gradle/
 *build/*
 /build-plugin/build/
 /plugin-test/build/
