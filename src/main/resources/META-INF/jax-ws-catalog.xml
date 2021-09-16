@@ -1,0 +1,5 @@
+<!-- https://www.brightec.co.uk/blog/wsdl-client-generation-with-kotlin-and-gradle -->
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost/OCPP_CentralSystemService_1.6.wsdl" uri="OCPP_CentralSystemService_1.6.wsdl"/>
+    <system systemId="http://localhost/OCPP_ChargePointService_1.6.wsdl" uri="OCPP_ChargePointService_1.6.wsdl"/>
+</catalog>
